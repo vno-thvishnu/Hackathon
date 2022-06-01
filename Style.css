@@ -1,0 +1,36 @@
+body{
+    background-color: whitesmoke;
+    line-height: 20px;
+}
+.logo{
+    height: 150px;
+    width: 150px;
+}
+h1{
+    color: #fd019c;
+    letter-spacing: 4px;
+}
+#text{
+    border-radius: 5px;
+    width: 30%;
+    height: 20px;
+    background-color: whitesmoke;
+}
+
+button{
+    margin-top: 15px;
+    background-color: rgb(202, 202, 202);
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.container{
+    
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.product{
+    gap: 30px;
+}
